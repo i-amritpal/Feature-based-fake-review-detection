@@ -40,3 +40,15 @@ pip install pandas nltk textstat vaderSentiment scikit-learn matplotlib
 2. Install the required dependencies as mentioned above.
 3. Navigate to the appropriate directory where the code is stored.
 4. Execute the code files in the desired order to perform data preparation, feature extraction, and machine learning analysis.
+
+## Contributing:
+  You can contribute by doing one of the following:
+  - Starring the repository ⭐
+  - Forking the repository 🍴
+      1. Fork the repository.
+      2. Create a new branch: `git checkout -b feature/new-feature`
+      3. Commit changes: `git commit -am 'Add new feature'`
+      4. Push to the branch: `git push origin feature/new-feature`
+      5. Submit a pull request.
+  - Creating an Issue ❌
+  - Creating a Pull Request ✔
